@@ -1,0 +1,14 @@
+*.log
+*.cache
+.DS_Store
+
+.env
+config.php
+
+tmp/
+
+vendor/
+
+.idea/
+.vscode/
+
